@@ -1,0 +1,17 @@
+Meeting after 412 Class
+Overall
+1. Worked on WK1 Report due 1-10-2019 
+2. Talked about resources to use for research 
+3. Talked about general design
+
+Details
+1. We think this first report to send to faculty advisor is a sort of rough draft on the PDS and he will make comments on what to change or what he expects. 
+2. Resources 
+      Verilog 
+      https://www.youtube.com/channel/UCQsJXnZ5mNfNRJ90T9zJ8JA/videos
+      https://www.youtube.com/watch?v=FWE0-FOoE4s&list=PLUtfVcb-iqn-EkuBs3arreilxa2UKIChl
+      http://www.asic-world.com/verilog/
+3. General Design Idea
+      Want to use an archimedes screw for dispensing candy. This also allows us to use different sized candies/snacks for fewer interchangable parts. If the part has to be changed, we can use an interlocking mechanism and use an archimedes screw with larger or smaller space. 
+      In order to use the archimedes screw for dispensing, the GUI interface can influence how many turns the screw will turn. For example if we want fewer candies, select 'small amount' and the motor for the dispenser would turn once. However, for more candies, the motor  would turn the archimedes screw a few more times (would need to do testing and choose size of machine) to dispense more candy. 
+      Talked about general idea for design of machine, preference for a boxy shape because easier to 3D print and easier to prototype later. Ideas drawn will be posted. 
